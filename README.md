@@ -6,7 +6,7 @@
 
 ####  preview Link
  
- (https://educatetutorials.rf.gd)
+ (https://et.fast-page.org/)
  
 ### User Access and Authentication:
 
